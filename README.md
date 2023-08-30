@@ -5,7 +5,7 @@
 # Vison Maze
 
  <p align="center">
-   <a href="https://github.com/Delvoid/vision-maze/">Demo</a>
+   <a href="https://vision-maze.vercel.app/">Demo</a>
    ·
    <a href="https://github.com/Delvoid/vision-maze/issues">Report Bug</a>
    ·
@@ -94,7 +94,7 @@ Dijkstra's algorithm is a graph traversal algorithm that finds the shortest path
   npm run dev
 ```
 
-or try the demo [here](https://delvoid.github.io/vision-maze/)
+or try the [demo](https://vision-maze.vercel.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
