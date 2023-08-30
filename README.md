@@ -20,6 +20,10 @@
 Generate and visualize different maze generation and path finding algorithms. Built using TypeScript and React.
 
 
+[![Example Maze](./public/divRec.gif)](https://youtu.be/Z-0vzagIsDU)
+
+
+
 ### Features
 
 - Generate mazes using various algorithms:
